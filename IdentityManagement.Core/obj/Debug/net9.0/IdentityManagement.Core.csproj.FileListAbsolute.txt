@@ -1,0 +1,13 @@
+C:\Documents\Document\ASPProject\IdentityManagement1\IdentityManagement.Core\bin\Debug\net9.0\IdentityManagement.Core.deps.json
+C:\Documents\Document\ASPProject\IdentityManagement1\IdentityManagement.Core\bin\Debug\net9.0\IdentityManagement.Core.dll
+C:\Documents\Document\ASPProject\IdentityManagement1\IdentityManagement.Core\bin\Debug\net9.0\IdentityManagement.Core.pdb
+C:\Documents\Document\ASPProject\IdentityManagement1\IdentityManagement.Core\obj\Debug\net9.0\IdentityManagement.Core.csproj.AssemblyReference.cache
+C:\Documents\Document\ASPProject\IdentityManagement1\IdentityManagement.Core\obj\Debug\net9.0\IdentityManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Documents\Document\ASPProject\IdentityManagement1\IdentityManagement.Core\obj\Debug\net9.0\IdentityManagement.Core.AssemblyInfoInputs.cache
+C:\Documents\Document\ASPProject\IdentityManagement1\IdentityManagement.Core\obj\Debug\net9.0\IdentityManagement.Core.AssemblyInfo.cs
+C:\Documents\Document\ASPProject\IdentityManagement1\IdentityManagement.Core\obj\Debug\net9.0\IdentityManagement.Core.csproj.CoreCompileInputs.cache
+C:\Documents\Document\ASPProject\IdentityManagement1\IdentityManagement.Core\obj\Debug\net9.0\IdentityManagement.Core.sourcelink.json
+C:\Documents\Document\ASPProject\IdentityManagement1\IdentityManagement.Core\obj\Debug\net9.0\IdentityManagement.Core.dll
+C:\Documents\Document\ASPProject\IdentityManagement1\IdentityManagement.Core\obj\Debug\net9.0\refint\IdentityManagement.Core.dll
+C:\Documents\Document\ASPProject\IdentityManagement1\IdentityManagement.Core\obj\Debug\net9.0\IdentityManagement.Core.pdb
+C:\Documents\Document\ASPProject\IdentityManagement1\IdentityManagement.Core\obj\Debug\net9.0\ref\IdentityManagement.Core.dll
