@@ -144,7 +144,8 @@ public class AuthController : ControllerBase
         // Update last login time
         user.LastLoginAt = DateTime.UtcNow;
         await _userManager.UpdateAsync(user);
-        // Generate JWT token
+
+        // Generate a JWT token
         var token = await GenerateJwtToken(user);
         _logger.LogInformation("User {Email} logged in successfully", user.Email);
         return Ok(new AuthResponseDto
@@ -157,4 +158,6 @@ public class AuthController : ControllerBase
             UserName = user.UserName
         });
     }
+    
+
 }
