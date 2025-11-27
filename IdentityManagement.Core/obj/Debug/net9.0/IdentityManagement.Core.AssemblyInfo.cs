@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IdentityManagement.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7695110e3c733a432f94d83adc48baf1b758dc5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3135f0439c985c98c71a78574d3e32eafb82e2c8")]
 [assembly: System.Reflection.AssemblyProductAttribute("IdentityManagement.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IdentityManagement.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
